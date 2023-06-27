@@ -1,0 +1,10 @@
+host: localhost
+logdir: /home/tsai/work2/Research/projects/quantum_sensor/wf/atomate_config/logs
+name: qubit_sensor
+password: qimin
+port: 27017
+ssl_ca_file: null
+strm_lvl: INFO
+user_indices: []
+username: Jeng
+wf_user_indices: []
